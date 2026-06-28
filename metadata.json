@@ -1,0 +1,9 @@
+{
+  "name": "TrackNFix – Real-Time Civic Reporting System",
+  "description": "A real-time civic issue reporting application where users can post problems, vote on their priority, and track their resolution status. This app simulates a live, interactive environment for community engagement.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ],
+  "majorCapabilities": []
+}
